@@ -1,3 +1,15 @@
+'''
+This file is created to supplement the EDA steps in the Jupyter Notebooks.
+
+## LIST OF FUNCTIONS
+    - generate_hex_color
+    - ecdf
+    - plot_ecdf
+    - fill_nas
+    - percentage_na
+    - show_drop_cols
+
+'''
 import random
 import string
 import numpy as np
